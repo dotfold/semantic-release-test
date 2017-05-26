@@ -17,6 +17,10 @@
     "url": "https://github.com/dotfold/semantic-release-test.git"
   },
   "devDependencies": {
-    "semantic-release": "^6.3.6"
+    "semantic-release": "^6.3.6",
+    "semantic-release-conventional-commits": "^1.0.2"
+  },
+  "release": {
+    "analyzeCommits": "semantic-release-conventional-commits"
   }
 }
