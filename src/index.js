@@ -1,4 +1,4 @@
 
 module.exports = function () {
-  console.log('test')
+  console.log('semantic-release-test')
 }
