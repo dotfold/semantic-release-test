@@ -1,1 +1,4 @@
-console.log('test')
+
+module.exports = function () {
+  console.log('test')
+}
